@@ -10,7 +10,7 @@ Therefore the "modpack" actually requires MultiMC launcher to work.
 MultiMC can be downloaded through their official website, attached below:
 https://multimc.org/
 
-**Who is the modpack for?**
+## **Who is the modpack for?**
 
 The archetype example is anyone interested in playing and experiencing the old game content while enjoying
 the last Minecraft features. Those who would like to broaden their knowledge can read the credits below.
