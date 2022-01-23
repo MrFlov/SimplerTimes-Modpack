@@ -7,7 +7,7 @@ Its main purpose is to mimic plenty of forgotten or should I say, non-forgotten 
 (little Bedrock Edition features are included as well), especially the Alpha-version related ones & the Beta-version related ones. It is a client-side only modpack.
 It currently consists in a .zip MultiMC instance file that can be downloaded through GitHub.
 Therefore the "modpack" actually requires MultiMC launcher to work.
-MultiMC can be downloaded through their official website, attached below:
+MultiMC can be downloaded through their official website:
 https://multimc.org/
 
 ## **Who is the modpack for?**
@@ -73,6 +73,7 @@ though it isn't included in the pack).
 
 - Figure out a (1.18.1) FabriMC mod providing the old beacon beam model, as well as the old beacon block
 model (with the animated crystal star within it), here's a picture you can look at:
+
 ![This is an image](https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/42/Beacon_pyramid_revision_2.gif/revision/latest/scale-to-width-down/500?cb=20200830203001)
 
 - Bringing back the old sun-moon rotation/direction along with cloud direction (they used to move from North to South instead of East to West).
