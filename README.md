@@ -388,7 +388,7 @@ Official download link:
 	- https://github.com/FakeDomi/FastChest
 	
 
-- kyrptonaught, jptrzy and their "ToolTipFix" mod (CurseForge + GitHub download links):
+- kyrptonaught and their "ToolTipFix" mod (CurseForge + GitHub download links):
 	- https://www.curseforge.com/minecraft/mc-mods/tooltipfix
 	- https://github.com/kyrptonaught/tooltipfix
 
