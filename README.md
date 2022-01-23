@@ -1,22 +1,22 @@
 # -MultiMC-SimplerTimes-Modpack
 
-WHAT'S THE MODPACK FOR?
+What’s the modpack for?
 
 SimplerTimes Modpack is a blast into the Minecraft past.
 Its main purpose is to mimic plenty of forgotten or should I say, non-forgotten former features that have either been modified on Minecraft Java Edition or removed 
-(little Bedrock Edition features are included as well), especially the Alpha-version related ones & the Beta-version related ones. 
+(little Bedrock Edition features are included as well), especially the Alpha-version related ones & the Beta-version related ones. It is a client-side only modpack.
 It currently consists in a .zip MultiMC instance file that can be downloaded through GitHub.
 Therefore the "modpack" actually requires MultiMC launcher to work.
 MultiMC can be downloaded through their official website, attached below:
 https://multimc.org/
 
-WHO IS THE MODPACK FOR?
+Who is the modpack for?
 
 The archetype example is anyone interested in playing and experiencing the old game content while enjoying
 the last Minecraft features. Those who would like to broaden their knowledge can read the credits below.
 
 
-HOW DOES IT WORK?
+How does it work?
 
 The many mod combination provides versatile features that can be disabled or enabled in "Minecraft Settings ->
 Mods -> mod name".
@@ -53,7 +53,7 @@ then the "Custom add-on pack",
 then the "golden-days-base" 
 (then Programmer Art) 
 
-HOW BRIGHT IS THE MODPACK FUTURE?
+How bright is the modpack future
 
 Once, it was meant to be a private pack I was playing around with. As I was sharing a few screenshots to other
 users, it turned out it was pretty much successful and I was suggested to make the pack public.
@@ -83,7 +83,7 @@ https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/42/Beacon_pyramid
 - Obviously, your own suggestions I may haven't taken into account yet.
 
 
-THE BASIC RULES:
+The basic rules:
 
 SimplerTimes modpack is a Minecraft modpack meant to be only used for spare time purpose. 
 It has no selling interest nor it has the mods' and resourcepacks' property rights. Those property belong to their respective developers. Therefore redistributing the instance file to some second-party/second-tier shady websites and claiming it 100% yours, or directly sharing it around by unofficial download links is stricly prohibited. 
@@ -115,7 +115,8 @@ https://www.curseforge.com/minecraft/texture-packs/golden-days
 - OverFloyd for letting me incorporating their "Floydicus Old Pack" resourcepack into a customized one (the "Custom add-on pack"). This process was only done to make sure the game looks fully beta-geguine, even on 1.18+. 
 Official download link:
 https://www.planetminecraft.com/texture-pack/floydicus-old-pack/
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
 (FABRICMC MODLOADER) MOD DEVELOPERS:
 - b3spectacled and their following mods:
 
