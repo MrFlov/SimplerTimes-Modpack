@@ -1,6 +1,6 @@
 # -MultiMC-SimplerTimes-Modpack
 
-<u>**What’s the modpack for?**</u>
+## **What’s the modpack for?**
 
 SimplerTimes Modpack is a blast into the Minecraft past.
 Its main purpose is to mimic plenty of forgotten or should I say, non-forgotten former features that have either been modified on Minecraft Java Edition or removed 
@@ -16,7 +16,7 @@ The archetype example is anyone interested in playing and experiencing the old g
 the last Minecraft features. Those who would like to broaden their knowledge can read the credits below.
 
 
-**How does it work?**
+## **How does it work?**
 
 The many mod combination provides versatile features that can be disabled or enabled in "Minecraft Settings ->
 Mods -> mod name".
@@ -54,7 +54,7 @@ then the "golden-days-base"
 (then Programmer Art) 
 
 
-**How bright is the modpack future?**
+## **How bright is the modpack future?**
 
 Once, it was meant to be a private pack I was playing around with. As I was sharing a few screenshots to other
 users, it turned out it was pretty much successful and I was suggested to make the pack public.
@@ -69,11 +69,11 @@ account, I may add it, if it already can be found (example: whether the mod for 
 though it isn't included in the pack).
 
 
-**My current TO-DO list (I'll try to update it):**
+## **My current TO-DO list (I'll try to update it):**
 
 - Figure out a (1.18.1) FabriMC mod providing the old beacon beam model, as well as the old beacon block
 model (with the animated crystal star within it), here's a picture you can look at:
-https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/42/Beacon_pyramid_revision_2.gif/revision/latest/scale-to-width-down/500?cb=20200830203001
+![This is an image](https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/42/Beacon_pyramid_revision_2.gif/revision/latest/scale-to-width-down/500?cb=20200830203001)
 
 - Bringing back the old sun-moon rotation/direction along with cloud direction (they used to move from North to South instead of East to West).
 
@@ -84,14 +84,14 @@ https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/42/Beacon_pyramid
 - Obviously, your own suggestions I may haven't taken into account yet.
 
 
-**The basic rules:**
+## **The basic rules:**
 
 SimplerTimes modpack is a Minecraft modpack meant to be only used for spare time purpose. 
 It has no selling interest nor it has the mods' and resourcepacks' property rights. Those property belong to their respective developers. Therefore redistributing the instance file to some second-party/second-tier shady websites and claiming it 100% yours, or directly sharing it around by unofficial download links is stricly prohibited. 
 As far as download links are concerned, only the following GitHub link is official:
 https://github.com/MrFlov/-MultiMC-SimplerTimes-Modpack
 
-**YOU'RE (ONLY) ABLE TO:**
+###### **YOU'RE (ONLY) ABLE TO:**
 - (Of course) playing the modpack at your convenience, in Singleplayer as well as in Multiplayer. 
 - Share the modpack to your friends, your community as long as it contains the official download link attached above. 
 - Modify it at your convenience without asking, as long as it's restricted to personal use.
@@ -101,12 +101,12 @@ If you're willing to redesign the modpack, then releasing it while keeping the s
 I won't stop you in porting the modpack to Forge as I surely won't do that.
 I thank you for your understanding.
 
-CREDIT TO ALL THE FOLLOWING MOD AND RESOURCEPACK DEVELOPERS WITHOUT THEM THIS PROJECT WOULD NEVER EXIST (READ THEM BELOW).
+## CREDIT TO ALL THE FOLLOWING MOD AND RESOURCEPACK DEVELOPERS WITHOUT THEM THIS PROJECT WOULD NEVER EXIST (READ THEM BELOW).
 You're reminded the following added-in features are strictly belonging to them, I am not responsible whether you're being took to court/sued because you didn't follow my recommendations or removed that file. 
 
-**THANKS TO THE FOLLOWING WONDERFUL PEOPLE:**
+## **THANKS TO THE FOLLOWING WONDERFUL PEOPLE:**
 
-**RESOURCEPACK DEVELOPERS:**
+###### **RESOURCEPACK DEVELOPERS:**
 - PoeticRainbow for letting me incorporating their "Golden Days" resourcepacks into the modpack.
 Official download links:
 https://github.com/PoeticRainbow/golden-days
@@ -118,7 +118,7 @@ Official download link:
 https://www.planetminecraft.com/texture-pack/floydicus-old-pack/
 
 
-(FABRICMC MODLOADER) MOD DEVELOPERS:
+###### (FABRICMC MODLOADER) MOD DEVELOPERS:
 - b3spectacled and their following mods:
 
 	"Modern Beta" (CurseForge + GitHub download links):
