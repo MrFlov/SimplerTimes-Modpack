@@ -121,251 +121,251 @@ https://www.planetminecraft.com/texture-pack/floydicus-old-pack/
 - b3spectacled and their following mods:
 
 	"Modern Beta" (CurseForge + GitHub download links):
-	https://www.curseforge.com/minecraft/mc-mods/modern-beta
-	https://github.com/b3spectacled/modern-beta-fabric
+	- https://www.curseforge.com/minecraft/mc-mods/modern-beta
+	- https://github.com/b3spectacled/modern-beta-fabric
 
 	"Custom Stars" (CurseForge + GitHub download links):
-	https://www.curseforge.com/minecraft/mc-mods/custom-stars
-	https://github.com/b3spectacled/custom-stars
+	- https://www.curseforge.com/minecraft/mc-mods/custom-stars
+	- https://github.com/b3spectacled/custom-stars
 
 	"Custom Void" (CurseForge + GitHub download links):
-	https://www.curseforge.com/minecraft/mc-mods/custom-void
-	https://github.com/b3spectacled/custom-void
+	- https://www.curseforge.com/minecraft/mc-mods/custom-void
+	- https://github.com/b3spectacled/custom-void
 
 	"Custom Spawns" (CurseForge + GitHub download links):
-	https://www.curseforge.com/minecraft/mc-mods/custom-spawns
-	https://github.com/b3spectacled/custom-spawns
+	- https://www.curseforge.com/minecraft/mc-mods/custom-spawns
+	- https://github.com/b3spectacled/custom-spawns
 
 
 - SmushyTaco and their following mods:
 
 	"Hunger Remover" (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/hunger-remover
-	https://github.com/SmushyTaco/Hunger-Remover
-	https://modrinth.com/mod/hunger-remover/
+	- https://www.curseforge.com/minecraft/mc-mods/hunger-remover
+	- https://github.com/SmushyTaco/Hunger-Remover
+	- https://modrinth.com/mod/hunger-remover/
 
 	"Experience Remover" (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/experience-remover
-	https://github.com/SmushyTaco/Experience-Remover
-	https://modrinth.com/mod/Experience-Remover
+	- https://www.curseforge.com/minecraft/mc-mods/experience-remover
+	- https://github.com/SmushyTaco/Experience-Remover
+	- https://modrinth.com/mod/Experience-Remover
 
  	"Human Reborn" (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/human-reborn
-	https://github.com/SmushyTaco/Human-Reborn
-	https://modrinth.com/mod/human-reborn
+	- https://www.curseforge.com/minecraft/mc-mods/human-reborn
+	- https://github.com/SmushyTaco/Human-Reborn
+	- https://modrinth.com/mod/human-reborn
 
 	"Craftable Enchanted Golden Apple" (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/fabric-craftable-enchanted-golden-apple
-	https://github.com/SmushyTaco/Craftable-Enchanted-Golden-Apple
-	https://modrinth.com/mod/Craftable-Enchanted-Golden-Apple
+	- https://www.curseforge.com/minecraft/mc-mods/fabric-craftable-enchanted-golden-apple
+	- https://github.com/SmushyTaco/Craftable-Enchanted-Golden-Apple
+	- https://modrinth.com/mod/Craftable-Enchanted-Golden-Apple
 
 	"No Teleport Cooldown" (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/no-teleport-cooldown
-	https://github.com/SmushyTaco/No-Teleport-Cooldown
-	https://modrinth.com/mod/No-Teleport-Cooldown
+	- https://www.curseforge.com/minecraft/mc-mods/no-teleport-cooldown
+	- https://github.com/SmushyTaco/No-Teleport-Cooldown
+	- https://modrinth.com/mod/No-Teleport-Cooldown
 
 	"Legacy Display" (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/legacy-display
-	https://github.com/SmushyTaco/Legacy-Display
-	https://modrinth.com/mod/Legacy-Display
+	- https://www.curseforge.com/minecraft/mc-mods/legacy-display
+	- https://github.com/SmushyTaco/Legacy-Display
+	- https://modrinth.com/mod/Legacy-Display
 
 	"Legacy Bows" (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/legacy-bows
-	https://github.com/SmushyTaco/Legacy-Bows
-	https://modrinth.com/mod/Legacy-Bows
+	- https://www.curseforge.com/minecraft/mc-mods/legacy-bows
+	 -https://github.com/SmushyTaco/Legacy-Bows
+	 -https://modrinth.com/mod/Legacy-Bows
 
 	"Expanded Axe Enchanting" (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/expanded-axe-enchanting
-	https://github.com/SmushyTaco/Expanded-Axe-Enchanting
-	https://modrinth.com/mod/expanded-axe-enchanting/
+	- https://www.curseforge.com/minecraft/mc-mods/expanded-axe-enchanting
+	- https://github.com/SmushyTaco/Expanded-Axe-Enchanting
+	 -https://modrinth.com/mod/expanded-axe-enchanting/
 
 
 - JellySquid3_ and their CaffeineMC mods:
 
-	(INCOMING FOR 1.18.1) "Sodium" (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/sodium
-	https://github.com/CaffeineMC/sodium-fabric
-	https://modrinth.com/mod/sodium
+	"Sodium" (CurseForge + GitHub + Modrinth download links):
+	- https://www.curseforge.com/minecraft/mc-mods/sodium
+	- https://github.com/CaffeineMC/sodium-fabric
+	- https://modrinth.com/mod/sodium
 
 	"Lithium" (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/lithium/
-	https://github.com/CaffeineMC/lithium-fabric
-	https://modrinth.com/mod/lithium
+	- https://www.curseforge.com/minecraft/mc-mods/lithium/
+	- https://github.com/CaffeineMC/lithium-fabric
+	- https://modrinth.com/mod/lithium
 
 
-- (INCOMING FOR 1.18.1) comp500 and their "Indium" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/indium
-	https://github.com/comp500/Indium
-	https://modrinth.com/mod/indium
+- comp500 and their "Indium" mod (CurseForge + GitHub + Modrinth download links):
+	- https://www.curseforge.com/minecraft/mc-mods/indium
+	- https://github.com/comp500/Indium
+	- https://modrinth.com/mod/indium
 
 
 - Spottedstar and their "Starlight" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/starlight
-	https://github.com/PaperMC/Starlight
-	https://modrinth.com/mod/starlight
+	- https://www.curseforge.com/minecraft/mc-mods/starlight
+	- https://github.com/PaperMC/Starlight
+	- https://modrinth.com/mod/starlight
 
 
 - Sollace and their "Void Fog" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/custom-fog
-	https://github.com/Sollace/Void-Fog
-	https://modrinth.com/mod/void-fog
+	- https://www.curseforge.com/minecraft/mc-mods/custom-fog
+	- https://github.com/Sollace/Void-Fog
+	- https://modrinth.com/mod/void-fog
 
 
 - dorianpb and their "CEM/Custom Entity Models" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem
-	https://github.com/dorianpb/cem
-	https://modrinth.com/mod/cem
+	- https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem
+	- https://github.com/dorianpb/cem
+	- https://modrinth.com/mod/cem
 
 
 - NeRdTheNed and their "Punch2Prime" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/punch2prime
-	https://github.com/NeRdTheNed/Punch2Prime
-	https://www.modrinth.com/mod/punch2prime
+	- https://www.curseforge.com/minecraft/mc-mods/punch2prime
+	- https://github.com/NeRdTheNed/Punch2Prime
+	- https://www.modrinth.com/mod/punch2prime
 
 
 - tuxed/astei and their following mods:
 
 	"LazyDFU" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/lazydfu
-	https://github.com/astei/lazydfu
-	https://modrinth.com/mod/lazydfu
+	- https://www.curseforge.com/minecraft/mc-mods/lazydfu
+	- https://github.com/astei/lazydfu
+	- https://modrinth.com/mod/lazydfu
 
 	"Krypton" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/krypton
-	https://github.com/astei/krypton
-	https://modrinth.com/mod/krypton
+	- https://www.curseforge.com/minecraft/mc-mods/krypton
+	- https://github.com/astei/krypton
+	- https://modrinth.com/mod/krypton
 
 
 - RiceCookey and their "CombatEdit" mod (CurseForge + GitHub download links):
-	https://github.com/rizecookey/CombatEdit
-	https://www.curseforge.com/minecraft/mc-mods/combatedit
+	- https://github.com/rizecookey/CombatEdit
+	- https://www.curseforge.com/minecraft/mc-mods/combatedit
 
 
 - Adrenix and their "Old Swing – Eye Candy" mod (CurseForge + GitHub download links):
-	https://www.curseforge.com/minecraft/mc-mods/old-swing
-	https://github.com/Adrenix/OldSwing
+	- https://www.curseforge.com/minecraft/mc-mods/old-swing
+	- https://github.com/Adrenix/OldSwing
 
 
 - Setadokalo their "Custom Fog" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/custom-fog
-	https://github.com/Setadokalo/custom-fog
-	https://modrinth.com/mod/custom-fog
+	- https://www.curseforge.com/minecraft/mc-mods/custom-fog
+	- https://github.com/Setadokalo/custom-fog
+	- https://modrinth.com/mod/custom-fog
 
 
 - NatanFudge and their "Not Enough Crashes" mod (CurseForge + GitHub download links):
-	https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes
-	https://github.com/NatanFudge/not-enough-crashes
-	https://modrinth.com/mod/notenoughcrashes
+	- https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes
+	- https://github.com/NatanFudge/not-enough-crashes
+	- https://modrinth.com/mod/notenoughcrashes
 
 
 - Prospector and their "Mod Menu" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/mod-menu
-	https://github.com/prospector/ModMenu
-	https://modrinth.com/mod/modmenu
+	- https://www.curseforge.com/minecraft/mc-mods/mod-menu
+	- https://github.com/prospector/ModMenu
+	- https://modrinth.com/mod/modmenu
 
 
 - rdvdev2 and their "Disable Custom Worlds Advice" (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice
-	https://github.com/rdvdev2/DisableCustomWorldsAdvice
-	https://modrinth.com/mod/dcwa
+	- https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice
+	- https://github.com/rdvdev2/DisableCustomWorldsAdvice
+	- https://modrinth.com/mod/dcwa
 
 
 - kverti and their "Colormatic" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/colormatic
-	https://github.com/kverti/colormatic
-	https://modrinth.com/mod/colormatic
+	- https://www.curseforge.com/minecraft/mc-mods/colormatic
+	- https://github.com/kverti/colormatic
+	- https://modrinth.com/mod/colormatic
 
 
 - modmuss50, sfPlayer1 and their "Fabric API" library mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/fabric-api
-	https://github.com/FabricMC/fabric
-	https://modrinth.com/mod/fabric-api
+	- https://www.curseforge.com/minecraft/mc-mods/fabric-api
+	- https://github.com/FabricMC/fabric
+	- https://modrinth.com/mod/fabric-api
 
 
 - CaelTheColher and their "Capes" mod (CurseForge + GitHub download links):
-	https://www.curseforge.com/minecraft/mc-mods/capes
-	https://github.com/CaelTheColher/Capes
+	- https://www.curseforge.com/minecraft/mc-mods/capes
+	- https://github.com/CaelTheColher/Capes
 
 
 - TeamMidnightDust (Motschen, jmb05, hypherionmc) and their "Custom Splash Screen" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/custom-splash-screen
-	https://github.com/TeamMidnightDust/CustomSplashScreen
-	https://modrinth.com/mod/custom-splash-screen
+	- https://www.curseforge.com/minecraft/mc-mods/custom-splash-screen
+	- https://github.com/TeamMidnightDust/CustomSplashScreen
+	- https://modrinth.com/mod/custom-splash-screen
 
 
 - LogicalGeekBoy's "LogicalZoom" mod (CurseForge + GitHub download links):
-	https://www.curseforge.com/minecraft/mc-mods/logical-zoom
-	https://github.com/LogicalGeekBoy/logical_zoom
+	- https://www.curseforge.com/minecraft/mc-mods/logical-zoom
+	- https://github.com/LogicalGeekBoy/logical_zoom
 
 
 - neekhan and their "Old Animations" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/old-animations
-	https://github.com/existentially/old-animations
-	https://modrinth.com/mod/old-animations
+	- https://www.curseforge.com/minecraft/mc-mods/old-animations
+	- https://github.com/existentially/old-animations
+	- https://modrinth.com/mod/old-animations
 
 
 - Charles445 and their "Damage Tilt" mod (CurseForge + GitHub download links):
-	https://www.curseforge.com/minecraft/mc-mods/damage-tilt
-	https://github.com/Charles445/DamageTilt
+	- https://www.curseforge.com/minecraft/mc-mods/damage-tilt
+	- https://github.com/Charles445/DamageTilt
 
 
 - FabricMC and their "Fabric Fabric Language Kotlin" library mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
-	https://github.com/FabricMC/fabric-language-kotlin
-	https://modrinth.com/mod/fabric-language-kotlin
+	- https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
+	- https://github.com/FabricMC/fabric-language-kotlin
+	- https://modrinth.com/mod/fabric-language-kotlin
 
 
 - Tfarcenim and their "Fast Furnace" mod (CurseForge + GitHub download links):
-	https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric
-	https://github.com/Tfarcenim/FabricFastFurnace
+	- https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric
+	- https://github.com/Tfarcenim/FabricFastFurnace
 
 
 - Lortseam and their "CompleteConfig" library mod (CurseForge + GitLab + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/completeconfig
-	https://gitlab.com/Lortseam/completeconfig
-	https://modrinth.com/mod/completeconfig
+	- https://www.curseforge.com/minecraft/mc-mods/completeconfig
+	- https://gitlab.com/Lortseam/completeconfig
+	- https://modrinth.com/mod/completeconfig
 
 
 - shedaniel and their "Cloth Config API" mod (CurseForge + GitHub download links):
-	https://www.curseforge.com/minecraft/mc-mods/cloth-config
-	https://github.com/shedaniel/cloth-config
+	- https://www.curseforge.com/minecraft/mc-mods/cloth-config
+	- https://github.com/shedaniel/cloth-config
 
 
 - LambdAurora and their "LambDynamicLights" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights
-	https://github.com/LambdAurora/LambDynamicLights
-	https://modrinth.com/mod/lambdynamiclights
+	- https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights
+	- https://github.com/LambdAurora/LambDynamicLights
+	- https://modrinth.com/mod/lambdynamiclights
 
 
 - malte0811 and their "FerriteCore" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
-	https://github.com/malte0811/FerriteCore
-	https://www.modrinth.com/mod/ferrite-core
+	- https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
+	- https://github.com/malte0811/FerriteCore
+	- https://www.modrinth.com/mod/ferrite-core
 
 
 - tr9zw and their "EntityCulling" mod (CurseForge + GitHub download links):
-	https://www.curseforge.com/minecraft/mc-mods/entityculling
-	https://github.com/tr7zw/EntityCulling
+	- https://www.curseforge.com/minecraft/mc-mods/entityculling
+	- https://github.com/tr7zw/EntityCulling
 
 
 - ramidzkh and their "Fabrishot" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/fabrishot
-	https://github.com/ramidzkh/fabrishot
-	https://www.modrinth.com/mod/fabrishot
+	- https://www.curseforge.com/minecraft/mc-mods/fabrishot
+	- https://github.com/ramidzkh/fabrishot
+	- https://www.modrinth.com/mod/fabrishot
 
 
 - Jerozgen and their "Language Reload" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/language-reload
-	https://github.com/Jerozgen/LanguageReload
-	https://www.modrinth.com/mod/language-reload
+	- https://www.curseforge.com/minecraft/mc-mods/language-reload
+	- https://github.com/Jerozgen/LanguageReload
+	- https://www.modrinth.com/mod/language-reload
 	
 
 - UltimateBoomer and their following mods:
 
 	"NoFade" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/no-fade
-	https://github.com/UltimateBoomer/mc-no-fade
-	https://www.modrinth.com/mod/no-fade
+	- https://www.curseforge.com/minecraft/mc-mods/no-fade
+	- https://github.com/UltimateBoomer/mc-no-fade
+	- https://www.modrinth.com/mod/no-fade
 
 	"Smooth Boot" mod (CurseForge + GitHub + Modrinth download links):
 	https://www.curseforge.com/minecraft/mc-mods/smooth-boot
@@ -385,13 +385,13 @@ https://www.planetminecraft.com/texture-pack/floydicus-old-pack/
 
 
 - EngineHub and their WorldEdit mod (CurseForge + GitHub download links):
-	https://www.curseforge.com/minecraft/mc-mods/worldedit
-	https://github.com/enginehub/WorldEdit
+	- https://www.curseforge.com/minecraft/mc-mods/worldedit
+	- https://github.com/enginehub/WorldEdit
 
 
 - kyrptonaught, jptrzy and their "ToolTipFix" mod (CurseForge + GitHub download links):
-	https://www.curseforge.com/minecraft/mc-mods/tooltipfix
-	https://github.com/kyrptonaught/tooltipfix
+	- https://www.curseforge.com/minecraft/mc-mods/tooltipfix
+	- https://github.com/kyrptonaught/tooltipfix
 
 
 Finally, be warned the modpack itself is my property unless you had an agreement with me. 
