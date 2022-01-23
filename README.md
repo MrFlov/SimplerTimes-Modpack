@@ -104,9 +104,9 @@ I thank you for your understanding.
 ## CREDIT TO ALL THE FOLLOWING MOD AND RESOURCEPACK DEVELOPERS WITHOUT THEM THIS PROJECT WOULD NEVER EXIST (READ THEM BELOW).
 You're reminded the following added-in features are strictly belonging to them, I am not responsible whether you're being took to court/sued because you didn't follow my recommendations or removed that file. 
 
-## **THANKS TO THE FOLLOWING WONDERFUL PEOPLE:**
+## **Thanks to the following wonderful people:**
 
-###### **RESOURCEPACK DEVELOPERS:**
+###### **Resource pack developers:**
 - PoeticRainbow for letting me incorporating their "Golden Days" resourcepacks into the modpack.
 Official download links:
 https://github.com/PoeticRainbow/golden-days
@@ -118,7 +118,7 @@ Official download link:
 https://www.planetminecraft.com/texture-pack/floydicus-old-pack/
 
 
-###### (FABRICMC MODLOADER) MOD DEVELOPERS:
+###### (FabricMC mod loader) Mod developers:
 - b3spectacled and their following mods:
 
 	"Modern Beta" (CurseForge + GitHub download links):
