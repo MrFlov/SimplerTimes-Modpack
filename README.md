@@ -1,6 +1,6 @@
 # -MultiMC-SimplerTimes-Modpack
 
-**What’s the modpack for?**
+<u>**What’s the modpack for?**</u>
 
 SimplerTimes Modpack is a blast into the Minecraft past.
 Its main purpose is to mimic plenty of forgotten or should I say, non-forgotten former features that have either been modified on Minecraft Java Edition or removed 
