@@ -1,6 +1,6 @@
 # -MultiMC-SimplerTimes-Modpack
 
-What’s the modpack for?
+**What’s the modpack for?**
 
 SimplerTimes Modpack is a blast into the Minecraft past.
 Its main purpose is to mimic plenty of forgotten or should I say, non-forgotten former features that have either been modified on Minecraft Java Edition or removed 
@@ -10,13 +10,13 @@ Therefore the "modpack" actually requires MultiMC launcher to work.
 MultiMC can be downloaded through their official website, attached below:
 https://multimc.org/
 
-Who is the modpack for?
+**Who is the modpack for?**
 
 The archetype example is anyone interested in playing and experiencing the old game content while enjoying
 the last Minecraft features. Those who would like to broaden their knowledge can read the credits below.
 
 
-How does it work?
+**How does it work?**
 
 The many mod combination provides versatile features that can be disabled or enabled in "Minecraft Settings ->
 Mods -> mod name".
@@ -31,29 +31,30 @@ part, I usually allocate between 2,048MB and 3,072MB).
 As far as resourcepacks are concerned, I give out several pack combinations you can use depending on your demand:
 [Do not forget to apply Programmer Art below EVERY added-in resourcepack.]
 
-- PRE-1.13 resources: Put the following packs in this order:
+- _PRE-1.13 resources:_ Put the following packs in this order:
 "floydicus-better-old-default" at the TOP
 (then Programmer Art)
 
-- (PARTIAL) PRE-Beta-1.8 resources: Put the following packs in this order:
+- _(PARTIAL) PRE-Beta-1.8 resources:_ Put the following packs in this order:
 the "golden-days-fastchest" add-on at the TOP, 
 then the "golden-days-base"
 (then Programmer Art) 
 
-- COMPLETE PRE-Beta-1.8 resources: Put the following packs in this order:
+- _COMPLETE PRE-Beta-1.8 resources:_ Put the following packs in this order:
 the "golden-days-fastchest" add-on at the TOP, 
 then the "Custom add-on pack",
 then the "golden-days-base" 
 (then Programmer Art) 
 
-- COMPLETE PRE-Alpha-1.2 resources: Put the following packs in this order:
+- _PRE-Alpha-1.2 resources:_ Put the following packs in this order:
 the "golden-days-alpha" at the TOP,
 then the "golden-days-fastchest", 
 then the "Custom add-on pack",
 then the "golden-days-base" 
 (then Programmer Art) 
 
-How bright is the modpack future
+
+**How bright is the modpack future?**
 
 Once, it was meant to be a private pack I was playing around with. As I was sharing a few screenshots to other
 users, it turned out it was pretty much successful and I was suggested to make the pack public.
@@ -68,7 +69,7 @@ account, I may add it, if it already can be found (example: whether the mod for 
 though it isn't included in the pack).
 
 
-My current TO-DO list (I'll try to update it):
+**My current TO-DO list (I'll try to update it):**
 
 - Figure out a (1.18.1) FabriMC mod providing the old beacon beam model, as well as the old beacon block
 model (with the animated crystal star within it), here's a picture you can look at:
@@ -83,14 +84,14 @@ https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/42/Beacon_pyramid
 - Obviously, your own suggestions I may haven't taken into account yet.
 
 
-The basic rules:
+**The basic rules:**
 
 SimplerTimes modpack is a Minecraft modpack meant to be only used for spare time purpose. 
 It has no selling interest nor it has the mods' and resourcepacks' property rights. Those property belong to their respective developers. Therefore redistributing the instance file to some second-party/second-tier shady websites and claiming it 100% yours, or directly sharing it around by unofficial download links is stricly prohibited. 
 As far as download links are concerned, only the following GitHub link is official:
 https://github.com/MrFlov/-MultiMC-SimplerTimes-Modpack
 
-YOU'RE (ONLY) ABLE TO:
+**YOU'RE (ONLY) ABLE TO:**
 - (Of course) playing the modpack at your convenience, in Singleplayer as well as in Multiplayer. 
 - Share the modpack to your friends, your community as long as it contains the official download link attached above. 
 - Modify it at your convenience without asking, as long as it's restricted to personal use.
@@ -103,9 +104,9 @@ I thank you for your understanding.
 CREDIT TO ALL THE FOLLOWING MOD AND RESOURCEPACK DEVELOPERS WITHOUT THEM THIS PROJECT WOULD NEVER EXIST (READ THEM BELOW).
 You're reminded the following added-in features are strictly belonging to them, I am not responsible whether you're being took to court/sued because you didn't follow my recommendations or removed that file. 
 
-THANKS TO THE FOLLOWING WONDERFUL PEOPLE:
+**THANKS TO THE FOLLOWING WONDERFUL PEOPLE:**
 
-RESOURCEPACK DEVELOPERS:
+**RESOURCEPACK DEVELOPERS:**
 - PoeticRainbow for letting me incorporating their "Golden Days" resourcepacks into the modpack.
 Official download links:
 https://github.com/PoeticRainbow/golden-days
@@ -171,13 +172,13 @@ https://www.planetminecraft.com/texture-pack/floydicus-old-pack/
 
 	"Legacy Bows" (CurseForge + GitHub + Modrinth download links):
 	- https://www.curseforge.com/minecraft/mc-mods/legacy-bows
-	 -https://github.com/SmushyTaco/Legacy-Bows
-	 -https://modrinth.com/mod/Legacy-Bows
+	- https://github.com/SmushyTaco/Legacy-Bows
+	- https://modrinth.com/mod/Legacy-Bows
 
 	"Expanded Axe Enchanting" (CurseForge + GitHub + Modrinth download links):
 	- https://www.curseforge.com/minecraft/mc-mods/expanded-axe-enchanting
 	- https://github.com/SmushyTaco/Expanded-Axe-Enchanting
-	 -https://modrinth.com/mod/expanded-axe-enchanting/
+	- https://modrinth.com/mod/expanded-axe-enchanting/
 
 
 - JellySquid3_ and their CaffeineMC mods:
