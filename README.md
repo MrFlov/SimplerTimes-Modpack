@@ -396,6 +396,5 @@ https://www.planetminecraft.com/texture-pack/floydicus-old-pack/
 	- https://github.com/kyrptonaught/tooltipfix
 
 
-Finally, be warned the modpack itself is my property unless you had an agreement with me. 
 I wish you good playtime, and see you someday else.
 ~ Flov aka MrFlov aka Flov74
