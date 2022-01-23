@@ -4,7 +4,7 @@
 
 SimplerTimes Modpack is a blast into the Minecraft past.
 Its main purpose is to mimic plenty of forgotten or should I say, non-forgotten former features that have either been modified on Minecraft Java Edition or removed 
-(little Bedrock Edition features are included as well), especially the Alpha-version related ones & the Beta-version related ones. It is a client-side only modpack.
+(little Bedrock Edition features are included as well), especially the Alpha-version related ones & the Beta-version related ones. **IT IS A CLIENT-SIDE ONLY MODPACK.**
 It currently consists in a .zip MultiMC instance file that can be downloaded through GitHub.
 Therefore the "modpack" actually requires MultiMC launcher to work.
 MultiMC can be downloaded through their official website:
