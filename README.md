@@ -290,13 +290,13 @@ Official download link:
 	- https://github.com/CaelTheColher/Capes
 
 
-- TeamMidnightDust (Motschen, jmb05, hypherionmc) and their "Custom Splash Screen" mod (CurseForge + GitHub + Modrinth download links):
+- TeamMidnightDust and their "Custom Splash Screen" mod (CurseForge + GitHub + Modrinth download links):
 	- https://www.curseforge.com/minecraft/mc-mods/custom-splash-screen
 	- https://github.com/TeamMidnightDust/CustomSplashScreen
 	- https://modrinth.com/mod/custom-splash-screen
 
 
-- LogicalGeekBoy's "LogicalZoom" mod (CurseForge + GitHub download links):
+- LogicalGeekBoy and their "LogicalZoom" mod (CurseForge + GitHub download links):
 	- https://www.curseforge.com/minecraft/mc-mods/logical-zoom
 	- https://github.com/LogicalGeekBoy/logical_zoom
 
@@ -371,30 +371,30 @@ Official download link:
 	- https://www.modrinth.com/mod/no-fade
 
 	"Smooth Boot" mod (CurseForge + GitHub + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/smooth-boot
-	https://github.com/UltimateBoomer/mc-smoothboot
-	https://www.modrinth.com/mod/smoothboot-fabric
+	- https://www.curseforge.com/minecraft/mc-mods/smooth-boot
+	- https://github.com/UltimateBoomer/mc-smoothboot
+	- https://www.modrinth.com/mod/smoothboot-fabric
 
 
-- 5space, TecnaGamer and their "Old Walking Animation" mod (CurseForge + GitLab + Modrinth download links):
-	https://www.curseforge.com/minecraft/mc-mods/old-walking-animation
-	https://gitlab.com/TecnaGamer/OldWalkingAnimation
-	https://www.modrinth.com/mod/old-walking-animation
+- TecnaGamer and their "Old Walking Animation" mod (CurseForge + GitLab + Modrinth download links):
+	- https://www.curseforge.com/minecraft/mc-mods/old-walking-animation
+	- https://gitlab.com/TecnaGamer/OldWalkingAnimation
+	- https://www.modrinth.com/mod/old-walking-animation
 	
 
-- FakeDomi, X-Green and their "FastChest" mod (CurseForge + GitHub download links):
-	https://www.curseforge.com/minecraft/mc-mods/fastchest
-	https://github.com/FakeDomi/FastChest
-
-
-- EngineHub and their WorldEdit mod (CurseForge + GitHub download links):
-	- https://www.curseforge.com/minecraft/mc-mods/worldedit
-	- https://github.com/enginehub/WorldEdit
-
+- FakeDomi and their "FastChest" mod (CurseForge + GitHub download links):
+	- https://www.curseforge.com/minecraft/mc-mods/fastchest
+	- https://github.com/FakeDomi/FastChest
+	
 
 - kyrptonaught, jptrzy and their "ToolTipFix" mod (CurseForge + GitHub download links):
 	- https://www.curseforge.com/minecraft/mc-mods/tooltipfix
 	- https://github.com/kyrptonaught/tooltipfix
+
+
+-  unascribed and their "Fabrication" mod (CurseForge + GitHub download links):
+	- https://www.curseforge.com/minecraft/mc-mods/fabrication
+	- https://github.com/unascribed/Fabrication
 
 
 I wish you good playtime, and see you someday else.
