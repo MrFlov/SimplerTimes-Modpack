@@ -90,6 +90,7 @@ model (with the animated crystal star within it), here's a picture you can look 
 SimplerTimes modpack is a Minecraft modpack meant to be only used for spare time purpose. 
 It has no selling interest nor it has the mods' and resourcepacks' property rights. Those property belong to their respective developers. Therefore redistributing the instance file to some second-party/second-tier shady websites and claiming it 100% yours, or directly sharing it around by unofficial download links is stricly prohibited. 
 As far as download links are concerned, only the following GitHub link is official:
+
 https://github.com/MrFlov/-MultiMC-SimplerTimes-Modpack
 
 ###### **YOU'RE (ONLY) ABLE TO:**
@@ -110,13 +111,13 @@ You're reminded the following added-in features are strictly belonging to them, 
 ###### **Resource pack developers:**
 - PoeticRainbow for letting me incorporating their "Golden Days" resourcepacks into the modpack.
 Official download links:
-https://github.com/PoeticRainbow/golden-days
-https://www.planetminecraft.com/texture-pack/golden-days-beta-reversion-for-modern-minecraft/
-https://www.curseforge.com/minecraft/texture-packs/golden-days
+	- https://github.com/PoeticRainbow/golden-days
+	- https://www.planetminecraft.com/texture-pack/golden-days-beta-reversion-for-modern-minecraft/
+	- https://www.curseforge.com/minecraft/texture-packs/golden-days
 
 - OverFloyd for letting me incorporating their "Floydicus Old Pack" resourcepack into a customized one (the "Custom add-on pack"). This process was only done to make sure the game looks fully beta-geguine, even on 1.18+. 
 Official download link:
-https://www.planetminecraft.com/texture-pack/floydicus-old-pack/
+	- https://www.planetminecraft.com/texture-pack/floydicus-old-pack/
 
 
 ###### (FabricMC mod loader) Mod developers:
