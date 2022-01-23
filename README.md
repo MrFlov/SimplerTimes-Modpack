@@ -1,4 +1,4 @@
-# -MultiMC-SimplerTimes-Modpack
+# (MultiMC) SimplerTimes Modpack
 
 ## **What’s the modpack for?**
 
@@ -29,24 +29,24 @@ You are also reminded that the MultiMC instance will require at least the 16.01 
 also Java-17.1 compatible. A built-in 4GB+ of RAM device is recommended to decently play the modpack (for my
 part, I usually allocate between 2,048MB and 3,072MB).
 As far as resourcepacks are concerned, I give out several pack combinations you can use depending on your demand:
-[Do not forget to apply Programmer Art below EVERY added-in resourcepack.]
+**Do not forget to apply Programmer Art below EVERY added-in resourcepack.**
 
-- _PRE-1.13 resources:_ Put the following packs in this order:
+- **PRE-1.13 resources:** Put the following packs in this order:
 "floydicus-better-old-default" at the TOP
 (then Programmer Art)
 
-- _(PARTIAL) PRE-Beta-1.8 resources:_ Put the following packs in this order:
+- **(PARTIAL) PRE-Beta-1.8 resources:** Put the following packs in this order:
 the "golden-days-fastchest" add-on at the TOP, 
 then the "golden-days-base"
 (then Programmer Art) 
 
-- _COMPLETE PRE-Beta-1.8 resources:_ Put the following packs in this order:
+- **(COMPLETE) PRE-Beta-1.8 resources:** Put the following packs in this order:
 the "golden-days-fastchest" add-on at the TOP, 
 then the "Custom add-on pack",
 then the "golden-days-base" 
 (then Programmer Art) 
 
-- _PRE-Alpha-1.2 resources:_ Put the following packs in this order:
+- **PRE-Alpha-1.2 resources:** Put the following packs in this order:
 the "golden-days-alpha" at the TOP,
 then the "golden-days-fastchest", 
 then the "Custom add-on pack",
