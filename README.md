@@ -400,3 +400,7 @@ Official download link:
 
 I wish you good playtime, and see you someday else.
 ~ Flov aka MrFlov aka Flov74
+
+##### Post scriptum:
+Be warned I have NO knowledge in mod coding and so on, so if the game crashes because of some mod conflict or outdated version, you may check it out first. Try out disabling every mod (without loading any of your saves) and re-enable them one by one, until the game crashes. If it is a resourcepack you might switch the resourcepack order priority, or disable all of them, re-enable all of them one by one until the visual/sound occurs.
+**Once you've earned all those informations, you might consider reporting it to me whether it is resourcepack-related or directly to the mod developer if it is mod-related.**
