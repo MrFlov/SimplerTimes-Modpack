@@ -35,6 +35,7 @@ As far as resourcepacks are concerned, I give out several pack combinations you 
 - **PRE-1.13 resources:** Put the following packs in this order:
 "floydicus-better-old-default" at the TOP
 (then Programmer Art)
+
 ![old_default](https://user-images.githubusercontent.com/84197612/151043894-4f5327e7-63ee-49b8-9040-0c13da622157.png)
 
 - **(PARTIAL) PRE-Beta-1.8 resources:** Put the following packs in this order:
@@ -48,7 +49,8 @@ then the "golden-days-base"
 the "golden-days-fastchest" add-on at the TOP, 
 then the "Custom add-on pack",
 then the "golden-days-base" 
-(then Programmer Art) 
+(then Programmer Art)
+
 ![complete_beta](https://user-images.githubusercontent.com/84197612/151044083-40af6a16-4f84-455e-b093-6c5d60a89b88.png)
 
 - **PRE-Alpha-1.2 resources:** Put the following packs in this order:
@@ -56,7 +58,8 @@ the "golden-days-alpha" at the TOP,
 then the "golden-days-fastchest", 
 then the "Custom add-on pack",
 then the "golden-days-base" 
-(then Programmer Art) 
+(then Programmer Art)
+
 ![alpha](https://user-images.githubusercontent.com/84197612/151044100-b9c86f6a-1625-4750-b052-fa6d2888572f.png)
 
 ## **How bright is the modpack future?**
