@@ -62,6 +62,13 @@ As far as resourcepacks are concerned, I give out several pack combinations you 
 
 ![alpha](https://user-images.githubusercontent.com/84197612/151044100-b9c86f6a-1625-4750-b052-fa6d2888572f.png)
 
+
+#### Updating your old version Minecraft Worlds and keep generating old terrain thanks to Modern Beta.
+
+You may follow b3spectacled_'s tutorial for the world conversion, attached below:
+
+https://github.com/b3spectacled/modern-beta-fabric/wiki/Updating-Old-Worlds
+
 ## **How bright is the modpack future?**
 
 Once, it was meant to be a private pack I was playing around with. As I was sharing a few screenshots to other
