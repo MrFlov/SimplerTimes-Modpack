@@ -74,8 +74,9 @@ https://github.com/b3spectacled/modern-beta-fabric/wiki/Updating-Old-Worlds
 
 Since the pre-release-3 of 1.18.1 instance version, a datapack done by b3spectacled_ has been provided in the instance folder then `.minecraft/datapacks` folder.
 This means it is **not enabled by default**, you need to load it whenever you're creating or importing a new world. 
-Be warned once the datapack has been loaded in the world, the generation cannot be undone and you have to deal with this generation (I'm obivously not taking into account external world edit softwares.). 
-Here is an image instance of what you may expect from loading up the datapack (or not). By the way, I used the same world seed and coordinates only to look relevant, **you're already warned you cannot toggle them back in practise**. 
+Be warned once the datapack has been loaded in the world, the generation cannot be undone and you have to deal with this generation (I'm obviously not taking into account external world edit softwares.). 
+In addition to that, be warned enabling the datapack will make sure 1.17+ aquifers and the new 1.18+ cave noise don't generate in the selected world (aquifers are disabled due to some very intense latency in the Far Lands). 
+Here is an image instance of what you may expect from loading up the datapack (or not). By the way, I used the same world seed and coordinates only to look relevant, **you're already warned you cannot toggle them back once your world is generated**. 
 
 Datapack **enabled** (the Far Lands are alike the former Beta ones):
 
