@@ -69,6 +69,22 @@ You may follow b3spectacled_'s tutorial for the world conversion, attached below
 
 https://github.com/b3spectacled/modern-beta-fabric/wiki/Updating-Old-Worlds
 
+
+#### Fixing the new 1.18+ Far Lands generation into the former one:
+
+Since the pre-release-3 of 1.18.1 instance version, a datapack done by b3spectacled_ has been provided in the instance folder then `.minecraft/datapacks` folder.
+This means it is **not enabled by default**, you need to load it whenever you're creating or importing a new world. 
+Be warned once the datapack has been loaded in the world, the generation cannot be undone and you have to deal with this generation (I'm obivously not taking into account external world edit softwares.). 
+Here is an image instance of what you may expect from loading up the datapack (or not). By the way, I used the same world seed and coordinates only to look relevant, **you're already warned you cannot toggle them back in practise**. 
+
+Datapack **enabled** (the Far Lands are alike the former Beta ones):
+
+![2022-02-02_19 45 13](https://user-images.githubusercontent.com/84197612/152407610-e088b2a4-4881-4e83-877e-16779586a215.png)
+
+Datapack **disabled** (the Far Lands are more "square-ish" due to the 1.18+ cave-noise generation):
+
+![2022-02-02_19 48 38](https://user-images.githubusercontent.com/84197612/152407693-88f9dd46-c3b0-40d5-954b-9790bd88014e.png)
+
 ## **How bright is the modpack future?**
 
 Once, it was meant to be a private pack I was playing around with. As I was sharing a few screenshots to other
